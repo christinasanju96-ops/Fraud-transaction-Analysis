@@ -42,7 +42,7 @@ The full dashboard export is available as a PDF: [Report/Fraudulent ecommerce re
 
 ## Dataset Note
 The full raw file (374 MB) and the cleaned dataset (395 MB) are above GitHub's 100 MB file limit, so they are not included in this repository.
-Dataset source: [add link here]
+
 
 ## Author
 [Christina.R] | [www.linkedin.com/in/christina-r-57a4a233a]
