@@ -45,4 +45,4 @@ The full raw file (374 MB) and the cleaned dataset (395 MB) are above GitHub's 1
 Dataset source: [add link here]
 
 ## Author
-[Your name] | [LinkedIn profile link]
+[Christina.R] | [www.linkedin.com/in/christina-r-57a4a233a]
